@@ -2,7 +2,7 @@
 title: "My website"
 permalink: /
 layout: default
-theme: Tactile
+theme: Slate
 ---
 
 
