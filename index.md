@@ -6,9 +6,7 @@ theme: Minima
 ---
 
 
-# Georg Ostrovski
-
-## About me
+# About me
 
 
 <img src="data/pic2.jpg" alt="Me" width="400" height="300" align="right">
@@ -24,24 +22,24 @@ My PhD research revolved around **Dynamical Systems** in Game Theory, in particu
 Fictitious Play Dynamics and related learning processes, and the dynamics of piecewise affine maps and flows.
 
 
-## Publications
+# Publications
 
-### 2021
+## 2021
 
-### 2019
+## 2019
 
-### 2018
+## 2018
 
-### 2017
+## 2017
 
-### 2016
+## 2016
 
-### 2015
+## 2015
 
-### 2014
+## 2014
 
-### 2013
+## 2013
 
-### 2011
+## 2011
 
 More text.
