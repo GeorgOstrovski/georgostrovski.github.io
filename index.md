@@ -1,17 +1,37 @@
 ---
-title: "My website"
+title: "Georg Ostrovski"
 permalink: /
 layout: default
 theme: Minima
 ---
 
 
-# My Markdown website
+# Georg Ostrovski
+
+## About me
 
 Some text.
 
 <img src="data/pic.jpg" alt="My younger self" width="300" height="413" align="right">
 
-## Subsection
+## Publications
+
+### 2021
+
+### 2019
+
+### 2018
+
+### 2017
+
+### 2016
+
+### 2015
+
+### 2014
+
+### 2013
+
+### 2011
 
 More text.
