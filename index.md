@@ -10,6 +10,8 @@ theme: Minima
 
 Some text.
 
+![My younger self](/data/pic.jpg)
+
 ## Subsection
 
 More text.
