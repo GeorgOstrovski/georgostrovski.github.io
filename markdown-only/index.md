@@ -1,4 +1,3 @@
-``` ruby
 ---
 title: "My website"
 permalink: /
