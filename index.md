@@ -13,16 +13,15 @@ theme: Minima
 
 <img src="data/pic.jpg" alt="My younger self" width="300" height="413" align="right">
 
-I am a Research Engineering Team Lead at <a href="http://deepmind.com/">DeepMind</a> in London,
-working on problems related to Deep Reinforcement Learning.
+I am a Research Engineering Team Lead at [DeepMind](http://deepmind.com/) in London,
+working on problems related to **Deep Reinforcement Learning**:
+exploration, representation learning, offline RL, and more generally
+the engineering of large-scale RL agents.
 
 Before that, I completed a PhD in mathematics under the supervision of
 [Prof. Sebastian van Strien](http://www2.imperial.ac.uk/~svanstri/) at the University of Warwick.
-My PhD research revolved around Dynamical Systems in Game Theory, in particular
-
-* Fictitious Play Dynamics and related learning processes in games (their asymptotic properties, convergence rates, combinatorial description, emergence of chaos)
-
-* the dynamics of piecewise affine maps and flows (combinatorial description, ergodic properties)
+My PhD research revolved around **Dynamical Systems** in Game Theory, in particular
+Fictitious Play Dynamics and related learning processes, and the dynamics of piecewise affine maps and flows.
 
 
 ## Publications
