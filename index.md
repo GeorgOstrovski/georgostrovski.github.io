@@ -11,7 +11,7 @@ theme: Minima
 ## About me
 
 
-<img src="data/pic.jpg" alt="My younger self" width="300" height="413" align="right">
+<img src="data/pic2.jpg" alt="Me" width="400" height="300" align="right">
 
 I am a Research Engineering Team Lead at [DeepMind](http://deepmind.com/) in London,
 working on problems related to **Deep Reinforcement Learning**:
