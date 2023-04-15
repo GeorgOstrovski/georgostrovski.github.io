@@ -10,7 +10,7 @@ theme: Minima
 
 Some text.
 
-![My younger self](/data/pic.jpg)
+<img src="data/pic.jpg" alt="My younger self" width="300" height="413" align="right">
 
 ## Subsection
 
