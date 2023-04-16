@@ -5,11 +5,9 @@ layout: default
 theme: Minima
 ---
 
+<img src="data/pic2.jpg" alt="Me" width="300" height="225" align="right">
 
 # About me
-
-
-<img src="data/pic2.jpg" alt="Me" width="300" height="225" align="right">
 
 I am a Research Engineering Team Lead at [DeepMind](http://deepmind.com/) in London,
 working on problems related to **Deep Reinforcement Learning**:
