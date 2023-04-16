@@ -22,14 +22,14 @@ Fictitious Play Dynamics and related learning processes, and the dynamics of pie
 
 # Publications
 
-## 2023
+### 2023
 
 **[An Analysis of Quantile Temporal-Difference Learning](https://arxiv.org/pdf/2301.04462.pdf)** <br>
 M. Rowland, R. Munos, M. Gheshlaghi Azar, Y. Tang, G. Ostrovski, A. Harutyunyan, K. Tuyls, M. G. Bellemare, W. Dabney.
 *arXiv preprint, 2023*
 ([arXiv](https://arxiv.org/abs/2301.04462))
 
-## 2022
+### 2022
 
 **[An empirical study of implicit regularization in deep offline RL](https://openreview.net/pdf?id=HFfJWx60IT)** <br>
 C. Gulcehre, S. Srinivasan, J. Sygnowski, G. Ostrovski, M. Farajtabar, M. Hoffman, R. Pascanu, A. Doucet.
