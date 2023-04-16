@@ -26,22 +26,22 @@ Fictitious Play Dynamics and related learning processes, and the dynamics of pie
 
 **[The Difficulty of Passive Learning in Deep Reinforcement Learning](https://arxiv.org/pdf/2110.14020.pdf)** <br>
 G. Ostrovski, P. S. Castro, W. Dabney.
-__arXiv preprint, 2021__
+*arXiv preprint, 2021*
 ([arXiv](https://arxiv.org/abs/2110.14020); [P.S. Castro's blog post](https://psc-g.github.io/posts/research/rl/tandem/))
 
 **[When should agents explore?](https://arxiv.org/pdf/2108.11811.pdf)** <br>
 M. Pislar, D. Szepesvari, G. Ostrovski, D. Borsa, T. Schaul.
-__arXiv preprint, 2021__
+*arXiv preprint, 2021*
 ([arXiv](https://arxiv.org/abs/2108.11811))
 
 **[Return-based Scaling: Yet Another Normalisation Trick for Deep RL](https://arxiv.org/pdf/2105.05347.pdf)** <br>
 T. Schaul, G. Ostrovski, Iurii Kemaev, D. Borsa.
-__arXiv preprint, 2021__
+*arXiv preprint, 2021*
 ([arXiv](https://arxiv.org/abs/2105.05347))
 
 **[On The Effect of Auxiliary Tasks on Representation Dynamics](https://arxiv.org/pdf/2102.13089.pdf)** <br>
 C. Lyle, M. Rowland, G. Ostrovski, W. Dabney.
-__Proceedings of the 24<sup>th</sup> International Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego, California, USA, PMLR 130, 2021__
+*Proceedings of the 24<sup>th</sup> International Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego, California, USA, PMLR 130, 2021*
 ([conference paper](http://proceedings.mlr.press/v130/lyle21a/lyle21a.pdf); [arXiv](https://arxiv.org/abs/2102.13089))
 
 <!-- <li>
