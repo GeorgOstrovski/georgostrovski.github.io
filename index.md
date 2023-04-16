@@ -1,9 +1,3 @@
-<!-- ---
-title: "Georg Ostrovski"
-permalink: /
-layout: default
-theme: Minima
---- -->
 
 <img src="data/pic2.jpg" alt="Me" width="300" height="225" align="right">
 
