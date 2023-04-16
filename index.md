@@ -63,7 +63,7 @@ T. Schaul, G. Ostrovski, Iurii Kemaev, D. Borsa.
 
 **[On The Effect of Auxiliary Tasks on Representation Dynamics](https://arxiv.org/pdf/2102.13089.pdf)** <br>
 C. Lyle, M. Rowland, G. Ostrovski, W. Dabney.
-*Proceedings of the 24<sup>th</sup> International Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego, California, USA, PMLR 130, 2021*
+*Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego, California, USA, PMLR 130, 2021*
 ([conference paper](http://proceedings.mlr.press/v130/lyle21a/lyle21a.pdf),
  [arXiv](https://arxiv.org/abs/2102.13089))
 
