@@ -41,7 +41,7 @@ C. Gulcehre, S. Srinivasan, J. Sygnowski, G. Ostrovski, M. Farajtabar, M. Hoffma
 **[The Difficulty of Passive Learning in Deep Reinforcement
 Learning](https://proceedings.neurips.cc/paper/2021/file/c3e0c62ee91db8dc7382bde7419bb573-Paper.pdf)** <br>
 G. Ostrovski, P. S. Castro, W. Dabney.
-*arXiv preprint, 2021*
+*35th Conference on Neural Information Processing Systems (NeurIPS 2021)*
 ([conference paper](https://proceedings.neurips.cc/paper/2021/file/c3e0c62ee91db8dc7382bde7419bb573-Paper.pdf),
  [supplementary](https://proceedings.neurips.cc/paper/2021/file/c3e0c62ee91db8dc7382bde7419bb573-Supplemental.pdf);
  [arXiv](https://arxiv.org/abs/2110.14020);
@@ -64,10 +64,25 @@ C. Lyle, M. Rowland, G. Ostrovski, W. Dabney.
 
 **[Temporally-Extended ε-Greedy Exploration](https://openreview.net/pdf?id=ONBPHFZ7zG4)** <br>
 W. Dabney, G. Ostrovski, A. Barreto.
-*9<sup>th</sup> International Conference on Learning Representations (ICLR'21), 2021*
+*9th International Conference on Learning Representations (ICLR'21), 2021*
 ([conference paper](https://openreview.net/forum?id=ONBPHFZ7zG4), [arXiv](https://arxiv.org/abs/2006.01782))
 
 ## 2019
+
+**[Adapting Behaviour for Learning Progress](https://arxiv.org/abs/1912.06910)** <br>
+T. Schaul, D. Borsa, D. Ding, D. Szepesvari, G. Ostrovski, W. Dabney, S. Osindero.
+<i>arXiv preprint, 2019</i> (<a href="https://arxiv.org/abs/1912.06910">arXiv</a>)
+</li>
+<br>
+
+<li>
+<b><a href="https://openreview.net/pdf?id=r1lyTjAqYX">
+Recurrent Experience Replay in Distributed Reinforcement Learning
+</a></b>
+<br>S. Kapturowski, G. Ostrovski, J. Quan, R. Munos, W. Dabney.
+<i>7<sup>th</sup> International Conference on Learning Representations (ICLR'19), 2019</i>
+(<a href="https://openreview.net/forum?id=r1lyTjAqYX">conference paper</a>)
+</li>
 
 ## 2018
 
