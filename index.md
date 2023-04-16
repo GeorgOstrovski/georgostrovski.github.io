@@ -26,7 +26,7 @@ Fictitious Play Dynamics and related learning processes, and the dynamics of pie
 
 ## 2021
 
-**[The Difficulty of Passive Learning in Deep Reinforcement Learning](https://arxiv.org/pdf/2110.14020.pdf)** \
+**[The Difficulty of Passive Learning in Deep Reinforcement Learning](https://arxiv.org/pdf/2110.14020.pdf)** <br>
 G. Ostrovski, P. S. Castro, W. Dabney
 __arXiv preprint, 2021__
 ([arXiv](https://arxiv.org/abs/2110.14020); [P.S. Castro's blog post](https://psc-g.github.io/posts/research/rl/tandem/))
