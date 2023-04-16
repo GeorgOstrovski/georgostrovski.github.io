@@ -112,7 +112,36 @@ M. Hessel, J. Modayil, H. van Hasselt, T. Schaul, G. Ostrovski, W. Dabney, D. Ho
 
 ### 2017
 
+**[Count-Based Exploration with Neural Density Models](https://arxiv.org/pdf/1703.01310.pdf)** <br>
+G. Ostrovski, M. G. Bellemare, A. van den Oord, R. Munos.
+*Proceedings of the 34th International Conference on Machine Learning, Sydney, Australia, PMLR 70, 2017*
+([conference paper](http://proceedings.mlr.press/v70/ostrovski17a/ostrovski17a.pdf),
+ [supplementary](http://proceedings.mlr.press/v70/ostrovski17a/ostrovski17a-supp.pdf),
+ [arXiv](https://arxiv.org/abs/1703.01310))
+
+
 ### 2016
+
+**[Hybrid computing using a neural network with dynamic external memory](https://www.nature.com/articles/nature20101.pdf)** <br>
+A. Graves, G. Wayne, M. Reynolds, T. Harley, I. Danihelka, A. Grabska-Barwińska,
+S. Gómez Colmenarejo, E. Grefenstette, T. Ramalho, J. Agapiou,
+A. Puigdomènech Badia, K. M. Hermann, Y. Zwols, G. Ostrovski, A. Cain, H. King,
+C. Summerfield, P. Blunsom, K. Kavukcuoglu, D. Hassabis.
+*Nature, 2016, Volume 538, pp.471-476*
+([journal paper](http://dx.doi.org/10.1038/nature20101))
+
+**[Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868.pdf)** <br>
+M. G. Bellemare, S. Srinivasan, G. Ostrovski, T. Schaul, D. Saxton, R. Munos.
+*Advances in Neural Information Processing Systems 29 (NIPS 2016)*
+([conference paper](http://papers.nips.cc/paper/6383-unifying-count-based-exploration-and-intrinsic-motivation.pdf),
+ [arXiv](https://arxiv.org/abs/1606.01868))
+
+
+**[Increasing the Action Gap: New Operators for Reinforcement Learning](https://arxiv.org/pdf/1512.04860.pdf)** <br>
+M. G. Bellemare, G. Ostrovski, A. Guez, P. S. Thomas, R. Munos.
+*Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI 2016)*
+([conference paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12428/11761),
+ [arXiv](https://arxiv.org/abs/1512.04860))
 
 ### 2015
 
