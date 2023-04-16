@@ -198,7 +198,8 @@ G. Ostrovski, S. van Strien.
  [arXiv](https://arxiv.org/abs/1011.2018))
 
 
- # Presentations and Organized Meetings
+
+# Presentations and Organized Meetings
 
 I have given several talks on topics related to my work in Reinforcement Learning:
 
