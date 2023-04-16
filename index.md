@@ -15,7 +15,7 @@ exploration, representation learning, offline RL, and more generally
 the engineering of large-scale RL agents.
 
 Before that, I completed a PhD in mathematics under the supervision of
-[Prof. Sebastian van Strien](http://www2.imperial.ac.uk/~svanstri/) at the University of Warwick.
+[Prof. Sebastian van Strien](https://www.ma.imperial.ac.uk/~svanstri/) at the University of Warwick.
 My PhD research revolved around **Dynamical Systems** in Game Theory, in particular
 Fictitious Play Dynamics and related learning processes, and the dynamics of piecewise affine maps and flows.
 
