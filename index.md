@@ -1,5 +1,5 @@
 
-<img src="data/pic2.jpg" alt="Me" width="300" height="225" align="right">
+<img src="data/me.jpg" alt="Me" width="300" height="225" align="right">
 
 # About me
 
