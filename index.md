@@ -196,3 +196,38 @@ G. Ostrovski, S. van Strien.
 *Regular and Chaotic Dynamics, 2011, Volume 17, pp.129-154*
 ([journal paper](http://dx.doi.org/10.1134/S1560354711010059),
  [arXiv](https://arxiv.org/abs/1011.2018))
+
+
+ # Presentations and Organized Meetings
+
+I have given several talks on topics related to my work in Reinforcement Learning:
+
+* 11 June 2018: "Curiosity-Based Exploration in Deep Reinforcement Learning",
+[SIAM Annual Conference of the SIAM student chapter](http://imperialsiam.com/2018/05/19/siam-annual-conference-2018/),
+Imperial College London
+
+* 22 March 2018: "Exploration in Deep Reinforcement Learning",
+Dynamical Systems Seminar, Imperial College London
+
+
+In the years of my PhD I have given a number of talks on my research in
+Dynamical Systems and Game Theory:
+
+* 12 March 2013: "A Dynamical System Motivated by Games:
+Fictitious Play and Piecewise Affine Dynamics",
+Dynamical Systems and Statistical Physics Seminar, Queen Mary University of London
+
+* 9 May 2012: "Arnold Diffusion in Fictitious Play",
+["From mean-field control to weak KAM dynamics" workshop](http://www2.warwick.ac.uk/fac/sci/maths/research/events/2011-2012/wkd/),
+University of Warwick
+
+* 15 June 2011: "Learning Dynamics in Games", Maths Postgraduate Seminar, Queen Mary University of London
+
+* 18 May 2011: "Learning Dynamics in Games: Fictitious Play", Maths Postgraduate Seminar, University of Warwick
+
+* 15 March 2011: "Fictitious Play Dynamics", Ergodic Theory and Dynamical Systems Seminar, University of Warwick
+
+
+I have co-organized (with Julia Slipantschuk) the
+["One-Day Meeting for PhD Students in Dynamical Systems and Ergodic Theory"](http://www.maths.qmul.ac.uk/~juliasl/onedaydynamics.html)
+(YRM Satellite Meeting), on 26 March 2012, at the University of Warwick.
