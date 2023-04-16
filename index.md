@@ -34,7 +34,8 @@ M. Rowland, R. Munos, M. Gheshlaghi Azar, Y. Tang, G. Ostrovski, A. Harutyunyan,
 **[An empirical study of implicit regularization in deep offline RL](https://openreview.net/pdf?id=HFfJWx60IT)** <br>
 C. Gulcehre, S. Srinivasan, J. Sygnowski, G. Ostrovski, M. Farajtabar, M. Hoffman, R. Pascanu, A. Doucet.
 *Transactions on ML Research, 2022*
-([journal paper](https://openreview.net/pdf?id=HFfJWx60IT); [arXiv](https://arxiv.org/abs/2207.02099))
+([journal paper](https://openreview.net/pdf?id=HFfJWx60IT),
+ [arXiv](https://arxiv.org/abs/2207.02099))
 
 ### 2021
 
@@ -43,8 +44,8 @@ Learning](https://proceedings.neurips.cc/paper/2021/file/c3e0c62ee91db8dc7382bde
 G. Ostrovski, P. S. Castro, W. Dabney.
 *35th Conference on Neural Information Processing Systems (NeurIPS 2021)*
 ([conference paper](https://proceedings.neurips.cc/paper/2021/file/c3e0c62ee91db8dc7382bde7419bb573-Paper.pdf),
- [supplementary](https://proceedings.neurips.cc/paper/2021/file/c3e0c62ee91db8dc7382bde7419bb573-Supplemental.pdf);
- [arXiv](https://arxiv.org/abs/2110.14020);
+ [supplementary](https://proceedings.neurips.cc/paper/2021/file/c3e0c62ee91db8dc7382bde7419bb573-Supplemental.pdf),
+ [arXiv](https://arxiv.org/abs/2110.14020),
  [P.S. Castro's blog post](https://psc-g.github.io/posts/research/rl/tandem/))
 
 **[When should agents explore?](https://arxiv.org/pdf/2108.11811.pdf)** <br>
@@ -60,12 +61,14 @@ T. Schaul, G. Ostrovski, Iurii Kemaev, D. Borsa.
 **[On The Effect of Auxiliary Tasks on Representation Dynamics](https://arxiv.org/pdf/2102.13089.pdf)** <br>
 C. Lyle, M. Rowland, G. Ostrovski, W. Dabney.
 *Proceedings of the 24<sup>th</sup> International Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego, California, USA, PMLR 130, 2021*
-([conference paper](http://proceedings.mlr.press/v130/lyle21a/lyle21a.pdf); [arXiv](https://arxiv.org/abs/2102.13089))
+([conference paper](http://proceedings.mlr.press/v130/lyle21a/lyle21a.pdf),
+ [arXiv](https://arxiv.org/abs/2102.13089))
 
 **[Temporally-Extended ε-Greedy Exploration](https://openreview.net/pdf?id=ONBPHFZ7zG4)** <br>
 W. Dabney, G. Ostrovski, A. Barreto.
 *9th International Conference on Learning Representations (ICLR'21), 2021*
-([conference paper](https://openreview.net/forum?id=ONBPHFZ7zG4), [arXiv](https://arxiv.org/abs/2006.01782))
+([conference paper](https://openreview.net/forum?id=ONBPHFZ7zG4),
+ [arXiv](https://arxiv.org/abs/2006.01782))
 
 ### 2019
 
@@ -80,6 +83,32 @@ S. Kapturowski, G. Ostrovski, J. Quan, R. Munos, W. Dabney.
 ([conference paper](https://openreview.net/forum?id=r1lyTjAqYX))
 
 ### 2018
+
+**[Autoregressive Quantile Networks for Generative Modeling](https://arxiv.org/pdf/1806.05575.pdf)** <br>
+G. Ostrovski, W. Dabney, R. Munos.
+*Proceedings of the 35th International Conference on Machine Learning (ICML'18), Stockholm, Sweden, PMLR 80, 2018*
+([conference paper](http://proceedings.mlr.press/v80/ostrovski18a/ostrovski18a.pdf),
+ [supplementary](http://proceedings.mlr.press/v80/ostrovski18a/ostrovski18a-supp.pdf),
+ [arXiv](https://arxiv.org/abs/1806.05575))
+
+**[Implicit Quantile Networks for Distributional Reinforcement Learning](https://arxiv.org/pdf/1806.06923.pdf)** <br>
+W. Dabney, G. Ostrovski, D. Silver, R. Munos.
+*Proceedings of the 35th International Conference on Machine Learning (ICML'18), Stockholm, Sweden, PMLR 80, 2018*
+([conference paper](http://proceedings.mlr.press/v80/dabney18a/dabney18a.pdf),
+ [supplementary](http://proceedings.mlr.press/v80/dabney18a/dabney18a-supp.pdf),
+ [arXiv](https://arxiv.org/abs/1806.06923))
+
+**[Symmetric Decomposition of Asymmetric Games](https://www.nature.com/articles/s41598-018-19194-4.pdf)** <br>
+K. Tuyls, J. Pérolat, M. Lanctot, G. Ostrovski, R. Savani, J. Z. Leibo, T. Ord, T. Graepel, S. Legg.
+*Scientific Reports 8, 2018*
+([journal paper](https://www.nature.com/articles/s41598-018-19194-4),
+ [arXiv](https://arxiv.org/abs/1711.05074))
+
+**[Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf)** <br>
+M. Hessel, J. Modayil, H. van Hasselt, T. Schaul, G. Ostrovski, W. Dabney, D. Horgan, B. Piot, M. Azar, D. Silver.
+*Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018*
+([conference paper](http://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17204/16680),
+ [arXiv](https://arxiv.org/abs/1710.02298))
 
 ### 2017
 
