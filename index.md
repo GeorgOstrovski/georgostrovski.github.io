@@ -22,12 +22,14 @@ Fictitious Play Dynamics and related learning processes, and the dynamics of pie
 
 # Publications
 
+
 ### 2023
 
 **[An Analysis of Quantile Temporal-Difference Learning](https://arxiv.org/pdf/2301.04462.pdf)** <br>
 M. Rowland, R. Munos, M. Gheshlaghi Azar, Y. Tang, G. Ostrovski, A. Harutyunyan, K. Tuyls, M. G. Bellemare, W. Dabney.
 *arXiv preprint, 2023*
 ([arXiv](https://arxiv.org/abs/2301.04462))
+
 
 ### 2022
 
@@ -36,6 +38,7 @@ C. Gulcehre, S. Srinivasan, J. Sygnowski, G. Ostrovski, M. Farajtabar, M. Hoffma
 *Transactions on ML Research, 2022*
 ([journal paper](https://openreview.net/pdf?id=HFfJWx60IT),
  [arXiv](https://arxiv.org/abs/2207.02099))
+
 
 ### 2021
 
@@ -70,6 +73,7 @@ W. Dabney, G. Ostrovski, A. Barreto.
 ([conference paper](https://openreview.net/forum?id=ONBPHFZ7zG4),
  [arXiv](https://arxiv.org/abs/2006.01782))
 
+
 ### 2019
 
 **[Adapting Behaviour for Learning Progress](https://arxiv.org/abs/1912.06910)** <br>
@@ -81,6 +85,7 @@ T. Schaul, D. Borsa, D. Ding, D. Szepesvari, G. Ostrovski, W. Dabney, S. Osinder
 S. Kapturowski, G. Ostrovski, J. Quan, R. Munos, W. Dabney.
 *7th International Conference on Learning Representations (ICLR'19), 2019*
 ([conference paper](https://openreview.net/forum?id=r1lyTjAqYX))
+
 
 ### 2018
 
@@ -110,6 +115,7 @@ M. Hessel, J. Modayil, H. van Hasselt, T. Schaul, G. Ostrovski, W. Dabney, D. Ho
 ([conference paper](http://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17204/16680),
  [arXiv](https://arxiv.org/abs/1710.02298))
 
+
 ### 2017
 
 **[Count-Based Exploration with Neural Density Models](https://arxiv.org/pdf/1703.01310.pdf)** <br>
@@ -136,19 +142,57 @@ M. G. Bellemare, S. Srinivasan, G. Ostrovski, T. Schaul, D. Saxton, R. Munos.
 ([conference paper](http://papers.nips.cc/paper/6383-unifying-count-based-exploration-and-intrinsic-motivation.pdf),
  [arXiv](https://arxiv.org/abs/1606.01868))
 
-
 **[Increasing the Action Gap: New Operators for Reinforcement Learning](https://arxiv.org/pdf/1512.04860.pdf)** <br>
 M. G. Bellemare, G. Ostrovski, A. Guez, P. S. Thomas, R. Munos.
 *Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI 2016)*
 ([conference paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12428/11761),
  [arXiv](https://arxiv.org/abs/1512.04860))
 
+
 ### 2015
+
+**[Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236.pdf)** <br>
+V. Mnih, K. Kavukcuoglu, D. Silver, A. A. Rusu, J. Veness, M. G. Bellemare,
+A. Graves, M. Riedmiller, A. K. Fidjeland, G. Ostrovski, S. Petersen,
+C. Beattie, A. Sadik, I. Antonoglou, H. King, D. Kumaran, D. Wierstra,
+S. Legg, D. Hassabis.
+*Nature, 2015, Volume 518, pp.529-533*
+([journal paper](http://dx.doi.org/10.1038/nature14236))
+
 
 ### 2014
 
+**[Payoff Performance of Fictitious Play](https://arxiv.org/pdf/1308.4049.pdf)** <br>
+G. Ostrovski, S. van Strien.
+*Journal of Dynamics and Games, 2014, Volume 1, Number 4, pp.621-638*
+([journal paper](http://dx.doi.org/10.3934/jdg.2014.1.621),
+ [arXiv](https://arxiv.org/abs/1308.4049))
+
+**[Dynamics of a Continuous Piecewise Affine Map of the Square](https://arxiv.org/pdf/1305.4282.pdf)** <br>
+G. Ostrovski.
+*Physica D: Nonlinear Phenomena, 2014, Volume 271, pp.1-9*
+([journal paper](http://www.sciencedirect.com/science/article/pii/S0167278913003436),
+ [arXiv](https://arxiv.org/abs/1305.4282))
+
+
 ### 2013
+
+**[Topics arising from Fictitious Play Dynamics](/data/thesis.pdf)** <br>
+G. Ostrovski.
+*Ph.D. Thesis, 2013, University of Warwick*
+
+**[Fixed Point Theorem for Non-Self Maps of Regions in the Plane](https://arxiv.org/pdf/1112.3587.pdf)** <br>
+G. Ostrovski.
+*Topology and its Applications, 2013, Vol 160, Issue 7, pp.915-923*
+([journal paper](http://dx.doi.org/10.1016/j.topol.2013.03.004),
+ [arXiv](https://arxiv.org/abs/1112.3587))
+
 
 ### 2011
 
-More text.
+**[Piecewise Linear Hamiltonian Flows Associated to Zero-Sum Games:
+Transition Combinatorics and Questions on Ergodicity](https://arxiv.org/pdf/1011.2018.pdf)** <br>
+G. Ostrovski, S. van Strien.
+*Regular and Chaotic Dynamics, 2011, Volume 17, pp.129-154*
+([journal paper](http://dx.doi.org/10.1134/S1560354711010059),
+ [arXiv](https://arxiv.org/abs/1011.2018))
