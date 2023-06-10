@@ -19,6 +19,11 @@ Fictitious Play Dynamics and related learning processes, and the dynamics of pie
 
 ### 2023
 
+**[Deep Reinforcement Learning with Plasticity Injection](https://arxiv.org/pdf/2305.15555.pdf)** <br>
+E. Nikishin, J. Oh, G. Ostrovski, C. Lyle, R. Pascanu, W. Dabney, A. Barreto.
+*arXiv preprint, 2023*
+([arXiv](https://arxiv.org/abs/2305.15555))
+
 **[An Analysis of Quantile Temporal-Difference Learning](https://arxiv.org/pdf/2301.04462.pdf)** <br>
 M. Rowland, R. Munos, M. Gheshlaghi Azar, Y. Tang, G. Ostrovski, A. Harutyunyan, K. Tuyls, M. G. Bellemare, W. Dabney.
 *arXiv preprint, 2023*
