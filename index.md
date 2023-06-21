@@ -19,6 +19,13 @@ Fictitious Play Dynamics and related learning processes, and the dynamics of pie
 
 ### 2023
 
+**[Quantile Credit Assignment](https://openreview.net/pdf?id=4yoLVter71)** <br>
+T. Mesnard, W. Chen, A. Saade, Y. Tang, M. Rowland, T. Weber, C. Lyle, A. Gruslys, M. Valko, W. Dabney,
+G. Ostrovski, E. Moulines, R. Munos.
+*Proceedings of the 40th International Conference on Machine Learning (ICML'23), Honolulu, Hawaii, USA. PMLR 202, 2023*
+([conference paper](https://openreview.net/pdf?id=4yoLVter71))
+
+
 **[Deep Reinforcement Learning with Plasticity Injection](https://arxiv.org/pdf/2305.15555.pdf)** <br>
 E. Nikishin, J. Oh, G. Ostrovski, C. Lyle, R. Pascanu, W. Dabney, A. Barreto.
 *arXiv preprint, 2023*
@@ -62,7 +69,7 @@ T. Schaul, G. Ostrovski, Iurii Kemaev, D. Borsa.
 
 **[On The Effect of Auxiliary Tasks on Representation Dynamics](https://arxiv.org/pdf/2102.13089.pdf)** <br>
 C. Lyle, M. Rowland, G. Ostrovski, W. Dabney.
-*Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego, California, USA, PMLR 130, 2021*
+*Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego, California, USA. PMLR 130, 2021*
 ([conference paper](http://proceedings.mlr.press/v130/lyle21a/lyle21a.pdf),
  [arXiv](https://arxiv.org/abs/2102.13089))
 
@@ -90,14 +97,14 @@ S. Kapturowski, G. Ostrovski, J. Quan, R. Munos, W. Dabney.
 
 **[Autoregressive Quantile Networks for Generative Modeling](https://arxiv.org/pdf/1806.05575.pdf)** <br>
 G. Ostrovski, W. Dabney, R. Munos.
-*Proceedings of the 35th International Conference on Machine Learning (ICML'18), Stockholm, Sweden, PMLR 80, 2018*
+*Proceedings of the 35th International Conference on Machine Learning (ICML'18), Stockholm, Sweden. PMLR 80, 2018*
 ([conference paper](http://proceedings.mlr.press/v80/ostrovski18a/ostrovski18a.pdf),
  [supplementary](http://proceedings.mlr.press/v80/ostrovski18a/ostrovski18a-supp.pdf),
  [arXiv](https://arxiv.org/abs/1806.05575))
 
 **[Implicit Quantile Networks for Distributional Reinforcement Learning](https://arxiv.org/pdf/1806.06923.pdf)** <br>
 W. Dabney, G. Ostrovski, D. Silver, R. Munos.
-*Proceedings of the 35th International Conference on Machine Learning (ICML'18), Stockholm, Sweden, PMLR 80, 2018*
+*Proceedings of the 35th International Conference on Machine Learning (ICML'18), Stockholm, Sweden. PMLR 80, 2018*
 ([conference paper](http://proceedings.mlr.press/v80/dabney18a/dabney18a.pdf),
  [supplementary](http://proceedings.mlr.press/v80/dabney18a/dabney18a-supp.pdf),
  [arXiv](https://arxiv.org/abs/1806.06923))
@@ -119,7 +126,7 @@ M. Hessel, J. Modayil, H. van Hasselt, T. Schaul, G. Ostrovski, W. Dabney, D. Ho
 
 **[Count-Based Exploration with Neural Density Models](https://arxiv.org/pdf/1703.01310.pdf)** <br>
 G. Ostrovski, M. G. Bellemare, A. van den Oord, R. Munos.
-*Proceedings of the 34th International Conference on Machine Learning, Sydney, Australia, PMLR 70, 2017*
+*Proceedings of the 34th International Conference on Machine Learning, Sydney, Australia. PMLR 70, 2017*
 ([conference paper](http://proceedings.mlr.press/v70/ostrovski17a/ostrovski17a.pdf),
  [supplementary](http://proceedings.mlr.press/v70/ostrovski17a/ostrovski17a-supp.pdf),
  [arXiv](https://arxiv.org/abs/1703.01310))
