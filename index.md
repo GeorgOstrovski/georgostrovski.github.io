@@ -26,15 +26,16 @@ G. Ostrovski, E. Moulines, R. Munos.
 ([conference paper](https://openreview.net/pdf?id=4yoLVter71))
 
 
-**[Deep Reinforcement Learning with Plasticity Injection](https://arxiv.org/pdf/2305.15555.pdf)** <br>
+**[Deep Reinforcement Learning with Plasticity Injection](https://openreview.net/forum?id=jucDLW6G9l)** <br>
 E. Nikishin, J. Oh, G. Ostrovski, C. Lyle, R. Pascanu, W. Dabney, A. Barreto.
-*arXiv preprint, 2023*
-([arXiv](https://arxiv.org/abs/2305.15555))
+*37th Conference on Neural Information Processing Systems (NeurIPS 2023)*
+([conference paper](https://openreview.net/forum?id=jucDLW6G9l), [arXiv](https://arxiv.org/abs/2305.15555))
 
-**[An Analysis of Quantile Temporal-Difference Learning](https://arxiv.org/pdf/2301.04462.pdf)** <br>
+**[An Analysis of Quantile Temporal-Difference Learning](https://jmlr.org/papers/volume25/23-0154/23-0154.pdf)** <br>
 M. Rowland, R. Munos, M. Gheshlaghi Azar, Y. Tang, G. Ostrovski, A. Harutyunyan, K. Tuyls, M. G. Bellemare, W. Dabney.
-*arXiv preprint, 2023*
-([arXiv](https://arxiv.org/abs/2301.04462))
+*Journal of Machine Learning Research, Volume 25, pp.1-47, 2024*
+([journal paper](https://jmlr.org/papers/v25/23-0154.html),
+ [arXiv](https://arxiv.org/abs/2301.04462))
 
 
 ### 2022
