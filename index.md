@@ -26,10 +26,10 @@ G. Ostrovski, E. Moulines, R. Munos.
 ([conference paper](https://openreview.net/pdf?id=4yoLVter71))
 
 
-**[Deep Reinforcement Learning with Plasticity Injection](https://openreview.net/pdf?id=jucDLW6G9l)** <br>
+**[Deep Reinforcement Learning with Plasticity Injection](https://proceedings.neurips.cc/paper_files/paper/2023/file/75101364dc3aa7772d27528ea504472b-Paper-Conference.pdf)** <br>
 E. Nikishin, J. Oh, G. Ostrovski, C. Lyle, R. Pascanu, W. Dabney, A. Barreto.
 *37th Conference on Neural Information Processing Systems (NeurIPS 2023)*
-([conference paper](https://openreview.net/pdf?id=jucDLW6G9l), [arXiv](https://arxiv.org/abs/2305.15555))
+([conference paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/75101364dc3aa7772d27528ea504472b-Paper-Conference.pdf), [arXiv](https://arxiv.org/abs/2305.15555))
 
 **[An Analysis of Quantile Temporal-Difference Learning](https://jmlr.org/papers/volume25/23-0154/23-0154.pdf)** <br>
 M. Rowland, R. Munos, M. Gheshlaghi Azar, Y. Tang, G. Ostrovski, A. Harutyunyan, K. Tuyls, M. G. Bellemare, W. Dabney.
@@ -42,7 +42,7 @@ M. Rowland, R. Munos, M. Gheshlaghi Azar, Y. Tang, G. Ostrovski, A. Harutyunyan,
 
 **[An empirical study of implicit regularization in deep offline RL](https://openreview.net/pdf?id=HFfJWx60IT)** <br>
 C. Gulcehre, S. Srinivasan, J. Sygnowski, G. Ostrovski, M. Farajtabar, M. Hoffman, R. Pascanu, A. Doucet.
-*Transactions on ML Research, 2022*
+*Transactions on Machine Learning Research, 2022*
 ([journal paper](https://openreview.net/pdf?id=HFfJWx60IT),
  [arXiv](https://arxiv.org/abs/2207.02099))
 
@@ -68,7 +68,7 @@ T. Schaul, G. Ostrovski, Iurii Kemaev, D. Borsa.
 *arXiv preprint, 2021*
 ([arXiv](https://arxiv.org/abs/2105.05347))
 
-**[On The Effect of Auxiliary Tasks on Representation Dynamics](https://arxiv.org/pdf/2102.13089.pdf)** <br>
+**[On The Effect of Auxiliary Tasks on Representation Dynamics](http://proceedings.mlr.press/v130/lyle21a/lyle21a.pdf)** <br>
 C. Lyle, M. Rowland, G. Ostrovski, W. Dabney.
 *Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego, California, USA. PMLR 130, 2021*
 ([conference paper](http://proceedings.mlr.press/v130/lyle21a/lyle21a.pdf),
@@ -77,7 +77,7 @@ C. Lyle, M. Rowland, G. Ostrovski, W. Dabney.
 **[Temporally-Extended ε-Greedy Exploration](https://openreview.net/pdf?id=ONBPHFZ7zG4)** <br>
 W. Dabney, G. Ostrovski, A. Barreto.
 *9th International Conference on Learning Representations (ICLR'21), 2021*
-([conference paper](https://openreview.net/forum?id=ONBPHFZ7zG4),
+([conference paper](https://openreview.net/pdf?id=ONBPHFZ7zG4),
  [arXiv](https://arxiv.org/abs/2006.01782))
 
 
@@ -91,7 +91,7 @@ T. Schaul, D. Borsa, D. Ding, D. Szepesvari, G. Ostrovski, W. Dabney, S. Osinder
 **[Recurrent Experience Replay in Distributed Reinforcement Learning](https://openreview.net/pdf?id=r1lyTjAqYX)** <br>
 S. Kapturowski, G. Ostrovski, J. Quan, R. Munos, W. Dabney.
 *7th International Conference on Learning Representations (ICLR'19), 2019*
-([conference paper](https://openreview.net/forum?id=r1lyTjAqYX))
+([conference paper](https://openreview.net/pdf?id=r1lyTjAqYX))
 
 
 ### 2018
