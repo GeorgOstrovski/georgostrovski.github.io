@@ -17,6 +17,16 @@ Fictitious Play Dynamics and related learning processes, and the dynamics of pie
 # Publications
 
 
+### 2024
+
+
+**[An Analysis of Quantile Temporal-Difference Learning](https://jmlr.org/papers/volume25/23-0154/23-0154.pdf)** <br>
+M. Rowland, R. Munos, M. Gheshlaghi Azar, Y. Tang, G. Ostrovski, A. Harutyunyan, K. Tuyls, M. G. Bellemare, W. Dabney.
+*Journal of Machine Learning Research, Volume 25, pp.1-47, 2024*
+([journal paper](https://jmlr.org/papers/v25/23-0154.html),
+ [arXiv](https://arxiv.org/abs/2301.04462))
+
+
 ### 2023
 
 **[Quantile Credit Assignment](https://openreview.net/pdf?id=4yoLVter71)** <br>
@@ -30,12 +40,6 @@ G. Ostrovski, E. Moulines, R. Munos.
 E. Nikishin, J. Oh, G. Ostrovski, C. Lyle, R. Pascanu, W. Dabney, A. Barreto.
 *37th Conference on Neural Information Processing Systems (NeurIPS 2023)*
 ([conference paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/75101364dc3aa7772d27528ea504472b-Paper-Conference.pdf), [arXiv](https://arxiv.org/abs/2305.15555))
-
-**[An Analysis of Quantile Temporal-Difference Learning](https://jmlr.org/papers/volume25/23-0154/23-0154.pdf)** <br>
-M. Rowland, R. Munos, M. Gheshlaghi Azar, Y. Tang, G. Ostrovski, A. Harutyunyan, K. Tuyls, M. G. Bellemare, W. Dabney.
-*Journal of Machine Learning Research, Volume 25, pp.1-47, 2024*
-([journal paper](https://jmlr.org/papers/v25/23-0154.html),
- [arXiv](https://arxiv.org/abs/2301.04462))
 
 
 ### 2022
