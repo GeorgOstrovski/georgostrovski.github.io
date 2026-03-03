@@ -44,6 +44,13 @@ E. Nikishin, J. Oh, G. Ostrovski, C. Lyle, R. Pascanu, W. Dabney, A. Barreto.
 
 ### 2022
 
+**[The phenomenon of policy churn](https://proceedings.neurips.cc/paper_files/paper/2022/file/114292cf3f930ba157ed33f66997fee2-Paper-Conference.pdf)** <br>
+T. Schaul, A. Barreto, J. Quan, G. Ostrovski.
+*36th Conference on Neural Information Processing Systems (NeurIPS 2022)*
+([conference paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/114292cf3f930ba157ed33f66997fee2-Paper-Conference.pdf), 
+[supplemental](https://proceedings.neurips.cc/paper_files/paper/2022/file/114292cf3f930ba157ed33f66997fee2-Supplemental-Conference.pdf), 
+[arXiv](https://arxiv.org/abs/2206.00730))
+
 **[An empirical study of implicit regularization in deep offline RL](https://openreview.net/pdf?id=HFfJWx60IT)** <br>
 C. Gulcehre, S. Srinivasan, J. Sygnowski, G. Ostrovski, M. Farajtabar, M. Hoffman, R. Pascanu, A. Doucet.
 *Transactions on Machine Learning Research, 2022*
